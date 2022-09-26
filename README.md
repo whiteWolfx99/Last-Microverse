@@ -4,12 +4,24 @@
 
 > This is my first project with microverse 
 
-
+# add feture branch
 ## Built With
 
 - Major languages
 - Frameworks
 - Technologies used
+
+
+# PR Description
+
+in this pr:
+
+Added Linters
+Added Html File
+Styled the heading
+Updated readme file
+
+## Thank you for reviewing my Pr
 
 ## Live Demo (if available)
 
@@ -39,6 +51,11 @@ To get a local copy up and running follow these simple example steps.
 
 
 ## Authors
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/whiteWolfx99)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hevar-hoshang-9a7a68237/) 
+
 
 
 
